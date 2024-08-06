@@ -3,9 +3,6 @@ def main():
     original_price = int(input('Enter the regular price: '))
     rate = int(input('Enter the discount rate: '))
 
-    # regular = 100
-    # rate = 20
-
     discount_amount = 0     # complete this statement to calcualte the discount amount
     final_price = 0         # complete this statement to calculate the final price
 
